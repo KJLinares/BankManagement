@@ -1,0 +1,18 @@
+E:\LaSalleCollege\2016Fall\C#\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\English\Downloads\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\English\Downloads\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\English\Downloads\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\English\Downloads\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\scami\Desktop\Project juli\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\scami\Desktop\Project juli\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\scami\Desktop\Project juli\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\BusinessLayer\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\BusinessLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb

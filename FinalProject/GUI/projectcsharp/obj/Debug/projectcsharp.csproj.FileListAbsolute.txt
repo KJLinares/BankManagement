@@ -1,0 +1,68 @@
+c:\users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.exe.config
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.exe
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.pdb
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.csprojResolveAssemblyReference.cache
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.Properties.Resources.resources
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.csproj.GenerateResource.Cache
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.exe
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.pdb
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.ManagerMainPage.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FromFortisInternationalBank.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormLogIn.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormDepoWithd.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormAccount.resources
+C:\Users\English\Downloads\New folder\projectcsharp\bin\Debug\projectcsharp.exe.config
+C:\Users\English\Downloads\New folder\projectcsharp\obj\Debug\projectcsharp.exe
+C:\Users\English\Downloads\New folder\projectcsharp\obj\Debug\projectcsharp.pdb
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe.config
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.exe
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.pdb
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.pdb
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.dll
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.dll
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.pdb
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.pdb
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormAccount.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FromFortisInternationalBank.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormLogIn.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.ManagerMainPage.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.Properties.Resources.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormTransaction.resources
+C:\Users\English\Downloads\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.csproj.GenerateResource.Cache
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe.config
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.exe
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormAccount.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FromFortisInternationalBank.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormLogIn.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.Properties.Resources.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormTransaction.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.csproj.GenerateResource.Cache
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.dll
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.dll
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.pdb
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.ManagerAccountCustomer.resources
+C:\Users\scami\Desktop\Project juli\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.CustomerInfo.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe.config
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.exe
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.exe
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\projectcsharp.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\BusinessLayer.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\bin\Debug\ClassLibraryDataSide.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormAccount.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FromFortisInternationalBank.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormLogIn.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.ManagerAccountCustomer.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.CustomerInfo.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.Properties.Resources.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.FormTransaction.resources
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.csproj.GenerateResource.Cache
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\GUI\projectcsharp\obj\Debug\projectcsharp.csprojResolveAssemblyReference.cache

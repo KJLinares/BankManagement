@@ -1,0 +1,13 @@
+c:\users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.exe.config
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.exe
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\bin\Debug\projectcsharp.pdb
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.csprojResolveAssemblyReference.cache
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.Properties.Resources.resources
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.csproj.GenerateResource.Cache
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.exe
+C:\Users\scami\documents\visual studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.pdb
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.ManagerMainPage.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FromFortisInternationalBank.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormLogIn.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormDepoWithd.resources
+C:\Users\scami\Documents\Visual Studio 2012\Projects\projectcsharp\projectcsharp\obj\Debug\projectcsharp.FormAccount.resources

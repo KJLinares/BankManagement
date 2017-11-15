@@ -1,0 +1,20 @@
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.dll
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.pdb
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.dll
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.pdb
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.csprojResolveAssemblyReference.cache
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.dll
+c:\users\scami\documents\visual studio 2012\Projects\ClassLibraryDataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.pdb
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.dll
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.pdb
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.dll
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.pdb
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.csprojResolveAssemblyReference.cache
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.dll
+C:\Users\English\Downloads\FinalProject\DataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\ClassLibraryDataSide.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\bin\Debug\BusinessLayer.pdb
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.dll
+E:\LaSalleCollege\2016Fall\C#\FinalProject\12-14 AT 1PM\FinalProject\DataSide\ClassLibraryDataSide\obj\Debug\ClassLibraryDataSide.pdb
